@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+### Key Features
+
+- **User Creation**: API to create new user accounts with appropriate validation and error handling.
+- **User Retrieval**: API to retrieve user details by user ID, enabling the viewing of individual user name, email and Id.
+- **User Update**: API to update user account information, such as name, email and password.
+
 ## Project setup
 
 ```bash
